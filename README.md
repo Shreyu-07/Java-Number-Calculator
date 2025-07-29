@@ -53,10 +53,8 @@ The Sum is : 30.0
 Do you want to continue (Y/N): y
 ...
 
-
-<img width="1417" height="625" alt="image" src="https://github.com/user-attachments/assets/7809f583-441a-47b9-8907-4cd2e69d1061" />
-
 ```
+<img width="1417" height="625" alt="image" src="https://github.com/user-attachments/assets/7809f583-441a-47b9-8907-4cd2e69d1061" />
 
 ## 🧠 Concepts Used
 
